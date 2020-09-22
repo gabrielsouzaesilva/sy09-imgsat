@@ -11,9 +11,11 @@ In this part, I tried to provide the team with insights into the data and then t
 
 <img src="https://github.com/gabrielsouzaesilva/sy09-imgsat/blob/master/imgs/max_ndvi_dist.png">
 
-This phase of our project was the basis for understanding the data and the problem and was crucial for our final analysis.
+This phase of our project was the basis for understanding the data and the problem and was crucial for our final analysis. All details [here]{https://github.com/gabrielsouzaesilva/sy09-imgsat/blob/master/analyseExploratoire.ipynb}
 
 ### Model Selection
 In this part I made a pipeline to evaluate some models seen in class. The models chosen were: LDA, QDA, Naive Bayes and KNN. The purpose of this part is to apply the methods to our dataset, evaluate them and justify the choice of the best algorithm. The pipeline consists of the cross-validation with 5 different subsets of sizes from 10% to 100% of the training data. Each cross-validation works with 10 splits and a test size used is equal to 20% of the data set. This gives us the test and train scores of a model, and also a good view of the work of the model and how it changes with variation of the data. The image below simplyfies the model selection pipeline.
 
 <img src="https://github.com/gabrielsouzaesilva/sy09-imgsat/blob/master/imgs/modelEval.png">
+
+All details [here]https://github.com/gabrielsouzaesilva/sy09-imgsat/blob/master/modelPipe.ipynb
