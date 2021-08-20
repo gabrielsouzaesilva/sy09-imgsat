@@ -7,7 +7,7 @@ The aim of the study was to apply all concepts and techniques seen in class to c
 
 ## Personnal contribuition to project
 ### Exploratory Analysis
-In this part, I tried to provide the team with insights into the data and then try to explain our further decisions in the project. The analysis also helped to better understand the problem and see which points are interesting to study. An interesting point that we noticed is that max_ndvi can be used to separate classes. The distribution of each class is in accordance with the definition of NDVI, where regions with greener have higher values of NDVI as shown below.
+In this part, I tried to provide the team with insights into the data and then try to explain our further decisions in the project. The analysis also helped to better understand the problem and see which points are interesting to study. An interesting point that we noticed is that max_ndvi could be used to separate classes. The distribution of each class is in accordance with the definition of NDVI, where regions with greener have higher values of NDVI as shown below.
 
 <img src="https://github.com/gabrielsouzaesilva/sy09-imgsat/blob/master/imgs/max_ndvi_dist.png">
 
